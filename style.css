@@ -1,0 +1,26 @@
+body {
+    background-image: url(img/background.png);
+    font-family: 'Lato', sans-serif;
+}
+
+.main2{
+    padding-top: 100px;   
+}
+.main {
+    background-color: #d5dfef;
+    padding-bottom: 100px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    min-height: 300px;
+    -webkit-box-shadow: -7px 6px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px 6px 15px 0px rgba(0,0,0,0.75);
+box-shadow: -7px 6px 15px 0px rgba(0,0,0,0.75);
+}
+.sms2 {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
